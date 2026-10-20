@@ -1,19 +1,19 @@
 {
-    "version": "1.2.3",
+    "version": "1.2.4",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Ivan825/Stampede/releases/download/v1.2.3/stampede_1.2.3_windows_amd64.zip",
+            "url": "https://github.com/Ivan825/Stampede/releases/download/v1.2.4/stampede_1.2.4_windows_amd64.zip",
             "bin": [
                 "stampede.exe"
             ],
-            "hash": "44b6fd414ed6c189a6cc331e69bb8c1cad3b71148be167dcd38c4c456e3df9c3"
+            "hash": "84b1bcfd2b328f155f9d6492afc7edb6bdccb0a7e09bf5113f7c802862d604e1"
         },
         "arm64": {
-            "url": "https://github.com/Ivan825/Stampede/releases/download/v1.2.3/stampede_1.2.3_windows_arm64.zip",
+            "url": "https://github.com/Ivan825/Stampede/releases/download/v1.2.4/stampede_1.2.4_windows_arm64.zip",
             "bin": [
                 "stampede.exe"
             ],
-            "hash": "3b35b61fcaecf126c73290bd546b71cc9471ccd40abc3d8c7715b79b8ec63bdb"
+            "hash": "a1b3df4501b9e61a05bad00e05e3c2db99949a6d24a2ae2d3252bfde67c014a2"
         }
     },
     "homepage": "https://stampede-pearl.vercel.app",
